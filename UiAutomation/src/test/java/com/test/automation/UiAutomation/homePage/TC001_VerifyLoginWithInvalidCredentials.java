@@ -13,6 +13,8 @@ import com.test.automation.UiAutomation.uiActions.HomePage;
 
 public class TC001_VerifyLoginWithInvalidCredentials extends TestBase{
 
+	// My second commit
+	// This will be shown only after i commit
 	public static final Logger log = Logger.getLogger(TC001_VerifyLoginWithInvalidCredentials.class.getName());
 	HomePage homepage;
 	
