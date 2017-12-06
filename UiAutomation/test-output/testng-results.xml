@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on: [[FirefoxDriver: Firefox on XP (c5c6a538-ab28-4086-8c1b-5263620c2dfa)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]]]>
+    </line>
+    <line>
+      <![CDATA[Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]]>
+    </line>
+    <line>
+      <![CDATA[Found Element By : By.xpath: //*[@id='email']]]>
+    </line>
+    <line>
+      <![CDATA[Found Element By : By.xpath: //*[@id='email']]]>
+    </line>
+    <line>
+      <![CDATA[Found Element By : By.xpath: //*[@id='passwd']]]>
+    </line>
+    <line>
+      <![CDATA[Found Element By : By.xpath: //*[@id='passwd']]]>
+    </line>
+    <line>
+      <![CDATA[Found Element By : By.xpath: //*[@id='SubmitLogin']]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on: [[FirefoxDriver: Firefox on XP (c5c6a538-ab28-4086-8c1b-5263620c2dfa)] -> xpath: //*[@id='SubmitLogin']]]]>
+    </line>
+    <line>
+      <![CDATA[Found Element By : By.xpath: //*[@id='SubmitLogin']]]>
+    </line>
+    <line>
+      <![CDATA[Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li]]>
+    </line>
+    <line>
+      <![CDATA[Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20767" started-at="2017-11-14T22:14:24Z" finished-at="2017-11-14T22:14:45Z">
+    <groups>
+    </groups>
+    <test name="TC001_VerifyLoginWithInvalidCredentials" duration-ms="20767" started-at="2017-11-14T22:14:24Z" finished-at="2017-11-14T22:14:45Z">
+      <class name="com.test.automation.UiAutomation.homePage.TC001_VerifyLoginWithInvalidCredentials">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.UiAutomation.homePage.TC001_VerifyLoginWithInvalidCredentials@25bbe1b6]" name="setUp" is-config="true" duration-ms="11014" started-at="2017-11-14T14:14:24Z" finished-at="2017-11-14T14:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginWithInvalidCredentials()[pri:0, instance:com.test.automation.UiAutomation.homePage.TC001_VerifyLoginWithInvalidCredentials@25bbe1b6]" name="verifyLoginWithInvalidCredentials" duration-ms="9699" started-at="2017-11-14T14:14:35Z" finished-at="2017-11-14T14:14:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on: [[FirefoxDriver: Firefox on XP (c5c6a538-ab28-4086-8c1b-5263620c2dfa)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //*[@id='email']]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //*[@id='email']]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //*[@id='passwd']]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //*[@id='passwd']]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //*[@id='SubmitLogin']]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on: [[FirefoxDriver: Firefox on XP (c5c6a538-ab28-4086-8c1b-5263620c2dfa)] -> xpath: //*[@id='SubmitLogin']]]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //*[@id='SubmitLogin']]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li]]>
+            </line>
+            <line>
+              <![CDATA[Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.UiAutomation.homePage.TC001_VerifyLoginWithInvalidCredentials@25bbe1b6]" name="endTest" is-config="true" duration-ms="23" started-at="2017-11-14T14:14:45Z" finished-at="2017-11-14T14:14:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.automation.UiAutomation.homePage.TC001_VerifyLoginWithInvalidCredentials -->
+    </test> <!-- TC001_VerifyLoginWithInvalidCredentials -->
+  </suite> <!-- Suite -->
+</testng-results>

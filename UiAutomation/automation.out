@@ -1,0 +1,140 @@
+2017-11-07 15:37:56INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ===========Starting verifyLoginWithInvalidCredentials test===========
+2017-11-07 15:37:56INFO  HomePage:39 - clicked on sign in and object is [[FirefoxDriver: Firefox on XP (d62191e0-33c9-4d35-b6e7-6b081e473c9a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-07 15:38:06INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ===========Finished verifyLoginWithInvalidCredentials test===========
+2017-11-07 15:45:27INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ===========Starting verifyLoginWithInvalidCredentials test===========
+2017-11-07 15:45:28INFO  HomePage:39 - clicked on sign in and object is [[FirefoxDriver: Firefox on XP (9847e7a4-d254-4579-b7f6-0336b9f677ab)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-07 15:45:31INFO  HomePage:42 - entered email address test@gmail.com and object is [[FirefoxDriver: Firefox on XP (9847e7a4-d254-4579-b7f6-0336b9f677ab)] -> xpath: //*[@id='email']]
+2017-11-07 15:45:34INFO  HomePage:45 - entered password password123 and object is [[FirefoxDriver: Firefox on XP (9847e7a4-d254-4579-b7f6-0336b9f677ab)] -> xpath: //*[@id='passwd']]
+2017-11-07 15:45:34INFO  HomePage:47 - clicked on submit button and object is [[FirefoxDriver: Firefox on XP (9847e7a4-d254-4579-b7f6-0336b9f677ab)] -> xpath: //*[@id='SubmitLogin']]
+2017-11-07 15:45:37INFO  HomePage:52 - error message is Authentication failed.
+2017-11-07 15:45:37INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ===========Finished verifyLoginWithInvalidCredentials test===========
+2017-11-08 11:37:38INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ===========Starting verifyLoginWithInvalidCredentials test===========
+2017-11-08 11:37:38INFO  HomePage:39 - clicked on sign in and object is [[FirefoxDriver: Firefox on XP (1e0db8d8-be72-40ee-9074-3a0de79bfef0)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-08 11:37:41INFO  HomePage:42 - entered email address test@gmail.com and object is [[FirefoxDriver: Firefox on XP (1e0db8d8-be72-40ee-9074-3a0de79bfef0)] -> xpath: //*[@id='email']]
+2017-11-08 11:37:45INFO  HomePage:45 - entered password password123 and object is [[FirefoxDriver: Firefox on XP (1e0db8d8-be72-40ee-9074-3a0de79bfef0)] -> xpath: //*[@id='passwd']]
+2017-11-08 11:37:45INFO  HomePage:47 - clicked on submit button and object is [[FirefoxDriver: Firefox on XP (1e0db8d8-be72-40ee-9074-3a0de79bfef0)] -> xpath: //*[@id='SubmitLogin']]
+2017-11-08 11:37:48INFO  HomePage:52 - error message is Authentication failed.
+2017-11-08 11:37:48INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ===========Finished verifyLoginWithInvalidCredentials test===========
+2017-11-10 10:11:59INFO  HomePage:62 - Clicked on element: [[FirefoxDriver: Firefox on XP (c387db4c-3b13-4fa2-a2f2-d2f48dffbc5f)] -> css selector: [id='block_top_menu']>ul>:nth-child(1)]
+2017-11-10 10:13:14INFO  HomePage:62 - Clicked on element: [[FirefoxDriver: Firefox on XP (e3fe5344-f298-45eb-8fa7-a9ca44d4b8bc)] -> css selector: [id='block_top_menu']>ul>:nth-child(3)]
+2017-11-10 10:14:13INFO  HomePage:62 - Clicked on element: T-SHIRTS
+2017-11-10 10:16:36INFO  HomePage:62 - Clicked on element: T-SHIRTS
+2017-11-10 10:17:08INFO  HomePage:62 - Clicked on element: WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses
+2017-11-10 10:25:52INFO  HomePage:62 - Clicked on element: WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses
+2017-11-10 10:36:46INFO  HomePage:62 - Clicked on element: WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses
+2017-11-10 10:40:42INFO  HomePage:62 - Clicked on element: WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses
+2017-11-10 10:42:19INFO  HomePage:62 - Clicked on element: WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses
+2017-11-10 10:48:55INFO  HomePage:62 - Clicked on element: WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses
+2017-11-10 11:34:13INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ===========Starting verifyLoginWithInvalidCredentials test===========
+2017-11-10 11:34:13INFO  HomePage:41 - clicked on sign in and object is [[FirefoxDriver: Firefox on XP (b1428101-be38-4569-ba90-374502390bac)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-10 11:34:17INFO  HomePage:44 - entered email address test@gmail.com and object is [[FirefoxDriver: Firefox on XP (b1428101-be38-4569-ba90-374502390bac)] -> xpath: //*[@id='email']]
+2017-11-10 11:34:20INFO  HomePage:47 - entered password password123 and object is [[FirefoxDriver: Firefox on XP (b1428101-be38-4569-ba90-374502390bac)] -> xpath: //*[@id='passwd']]
+2017-11-10 11:34:20INFO  HomePage:49 - clicked on submit button and object is [[FirefoxDriver: Firefox on XP (b1428101-be38-4569-ba90-374502390bac)] -> xpath: //*[@id='SubmitLogin']]
+2017-11-10 11:34:23INFO  HomePage:54 - error message is Authentication failed.
+2017-11-10 11:34:23INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ===========Finished verifyLoginWithInvalidCredentials test===========
+2017-11-10 11:45:59INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ===========Starting verifyLoginWithInvalidCredentials test===========
+2017-11-10 11:45:59INFO  HomePage:41 - clicked on sign in and object is [[FirefoxDriver: Firefox on XP (21fea081-e557-4234-b0d7-0f5798c88879)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-10 11:46:02INFO  HomePage:44 - entered email address test@gmail.com and object is [[FirefoxDriver: Firefox on XP (21fea081-e557-4234-b0d7-0f5798c88879)] -> xpath: //*[@id='email']]
+2017-11-10 11:46:05INFO  HomePage:47 - entered password password123 and object is [[FirefoxDriver: Firefox on XP (21fea081-e557-4234-b0d7-0f5798c88879)] -> xpath: //*[@id='passwd']]
+2017-11-10 11:46:05INFO  HomePage:49 - clicked on submit button and object is [[FirefoxDriver: Firefox on XP (21fea081-e557-4234-b0d7-0f5798c88879)] -> xpath: //*[@id='SubmitLogin']]
+2017-11-10 11:46:09INFO  HomePage:54 - error message is Authentication failed.
+2017-11-10 11:46:09INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ===========Finished verifyLoginWithInvalidCredentials test===========
+2017-11-13 21:35:06INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ===========Starting verifyLoginWithInvalidCredentials test===========
+2017-11-13 21:35:06INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-11-13 21:35:06INFO  WebEventListener:130 - Clicked on: [[FirefoxDriver: Firefox on XP (0842ed99-b62f-4f21-8cd3-cb01656c4728)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-13 21:35:06INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-11-13 21:35:06INFO  HomePage:41 - clicked on sign in and object is [[FirefoxDriver: Firefox on XP (0842ed99-b62f-4f21-8cd3-cb01656c4728)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-13 21:35:09INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='email']
+2017-11-13 21:35:09INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='email']
+2017-11-13 21:35:09INFO  HomePage:44 - entered email address test@gmail.com and object is [[FirefoxDriver: Firefox on XP (0842ed99-b62f-4f21-8cd3-cb01656c4728)] -> xpath: //*[@id='email']]
+2017-11-13 21:35:09INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='passwd']
+2017-11-13 21:35:12INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='passwd']
+2017-11-13 21:35:12INFO  HomePage:47 - entered password password123 and object is [[FirefoxDriver: Firefox on XP (0842ed99-b62f-4f21-8cd3-cb01656c4728)] -> xpath: //*[@id='passwd']]
+2017-11-13 21:35:12INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='SubmitLogin']
+2017-11-13 21:35:12INFO  WebEventListener:130 - Clicked on: [[FirefoxDriver: Firefox on XP (0842ed99-b62f-4f21-8cd3-cb01656c4728)] -> xpath: //*[@id='SubmitLogin']]
+2017-11-13 21:35:12INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='SubmitLogin']
+2017-11-13 21:35:12INFO  HomePage:49 - clicked on submit button and object is [[FirefoxDriver: Firefox on XP (0842ed99-b62f-4f21-8cd3-cb01656c4728)] -> xpath: //*[@id='SubmitLogin']]
+2017-11-13 21:35:15INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2017-11-13 21:35:16INFO  HomePage:54 - error message is Authentication failed.
+2017-11-13 21:35:16INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2017-11-13 21:35:16INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ===========Finished verifyLoginWithInvalidCredentials test===========
+2017-11-14 09:47:36INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ===========Starting verifyLoginWithInvalidCredentials test===========
+2017-11-14 09:47:36INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-11-14 09:47:36INFO  WebEventListener:130 - Clicked on: [[FirefoxDriver: Firefox on XP (380ef02f-282f-4a73-8f55-41a8b2fc2ebd)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-14 09:47:36INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-11-14 09:47:36INFO  HomePage:41 - clicked on sign in and object is [[FirefoxDriver: Firefox on XP (380ef02f-282f-4a73-8f55-41a8b2fc2ebd)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-14 09:47:39INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='email']
+2017-11-14 09:47:39INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='email']
+2017-11-14 09:47:39INFO  HomePage:44 - entered email address test@gmail.com and object is [[FirefoxDriver: Firefox on XP (380ef02f-282f-4a73-8f55-41a8b2fc2ebd)] -> xpath: //*[@id='email']]
+2017-11-14 09:47:40INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='passwd']
+2017-11-14 09:47:43INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='passwd']
+2017-11-14 09:47:43INFO  HomePage:47 - entered password password123 and object is [[FirefoxDriver: Firefox on XP (380ef02f-282f-4a73-8f55-41a8b2fc2ebd)] -> xpath: //*[@id='passwd']]
+2017-11-14 09:47:43INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='SubmitLogin']
+2017-11-14 09:47:43INFO  WebEventListener:130 - Clicked on: [[FirefoxDriver: Firefox on XP (380ef02f-282f-4a73-8f55-41a8b2fc2ebd)] -> xpath: //*[@id='SubmitLogin']]
+2017-11-14 09:47:43INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='SubmitLogin']
+2017-11-14 09:47:43INFO  HomePage:49 - clicked on submit button and object is [[FirefoxDriver: Firefox on XP (380ef02f-282f-4a73-8f55-41a8b2fc2ebd)] -> xpath: //*[@id='SubmitLogin']]
+2017-11-14 09:47:46INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2017-11-14 09:47:46INFO  HomePage:54 - error message is Authentication failed.
+2017-11-14 09:47:46INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2017-11-14 09:47:46INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ===========Finished verifyLoginWithInvalidCredentials test===========
+2017-11-14 14:14:35INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ===========Starting verifyLoginWithInvalidCredentials test===========
+2017-11-14 14:14:35INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-11-14 14:14:35INFO  WebEventListener:130 - Clicked on: [[FirefoxDriver: Firefox on XP (c5c6a538-ab28-4086-8c1b-5263620c2dfa)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-14 14:14:35INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-11-14 14:14:35INFO  HomePage:41 - clicked on sign in and object is [[FirefoxDriver: Firefox on XP (c5c6a538-ab28-4086-8c1b-5263620c2dfa)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-14 14:14:38INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='email']
+2017-11-14 14:14:38INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='email']
+2017-11-14 14:14:38INFO  HomePage:44 - entered email address test@gmail.com and object is [[FirefoxDriver: Firefox on XP (c5c6a538-ab28-4086-8c1b-5263620c2dfa)] -> xpath: //*[@id='email']]
+2017-11-14 14:14:38INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='passwd']
+2017-11-14 14:14:41INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='passwd']
+2017-11-14 14:14:41INFO  HomePage:47 - entered password password123 and object is [[FirefoxDriver: Firefox on XP (c5c6a538-ab28-4086-8c1b-5263620c2dfa)] -> xpath: //*[@id='passwd']]
+2017-11-14 14:14:41INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='SubmitLogin']
+2017-11-14 14:14:41INFO  WebEventListener:130 - Clicked on: [[FirefoxDriver: Firefox on XP (c5c6a538-ab28-4086-8c1b-5263620c2dfa)] -> xpath: //*[@id='SubmitLogin']]
+2017-11-14 14:14:41INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='SubmitLogin']
+2017-11-14 14:14:41INFO  HomePage:49 - clicked on submit button and object is [[FirefoxDriver: Firefox on XP (c5c6a538-ab28-4086-8c1b-5263620c2dfa)] -> xpath: //*[@id='SubmitLogin']]
+2017-11-14 14:14:44INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2017-11-14 14:14:44INFO  HomePage:54 - error message is Authentication failed.
+2017-11-14 14:14:44INFO  WebEventListener:130 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2017-11-14 14:14:45INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ===========Finished verifyLoginWithInvalidCredentials test===========
